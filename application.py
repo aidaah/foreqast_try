@@ -1,8 +1,8 @@
 from flask import Flask
 
 # print a nice greeting.
-def say_hello(username = "World"):
-    return '<p>Hello %s!</p>\n' % username
+def say_hello(username = "Technologies Limited"):
+    return '<p>ForeQast %s!</p>\n' % username
 
 # some bits of text for the page.
 header_text = '''
